@@ -1,1 +1,1 @@
-pyinstaller --onefile --icon=resources/icon.ico --name ping-pong-game main.py
+pyinstaller --onefile --icon=resources/icon.ico --name ping-pong-game --noconsole main.py
